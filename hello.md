@@ -1,4 +1,5 @@
 # Greetings
 
-- English: Hello
+- English: Good morning!
 - Korean: 안녕하세요
+
